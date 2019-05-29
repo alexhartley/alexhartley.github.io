@@ -1,1 +1,1 @@
-Just source files for personal landing page [alexhartley.me](http://alexhartley.me).
+Source files for personal landing page [www.alexhartley.me](https://www.alexhartley.me).
